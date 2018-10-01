@@ -3,7 +3,7 @@ layout: page
 title: Contents
 ---
 
-This is a list of readings prepared for the [White People for Black Lives Los Angeles](https://www.facebook.com/wp4rj) general meeting on February 12, 2017. Please send questions or comments to [fascism@kk4ead.org](mailto:fascism@kk4ead.org).
+This is a list of readings prepared for the [White People for Black Lives Los Angeles](https://www.facebook.com/wp4bl) general meeting on February 12, 2017.
 
 ## Meeting Handouts
 
@@ -23,10 +23,8 @@ Some [definitions](definitions.html) from [Merriam-Webster](http://www.m-w.com/)
 * George Orwell, "Shopkeepers at War," in _The Lion and the Unicorn: Socialism and the English Genius_ (1941). [Available from orwell.ru](http://orwell.ru/library/essays/lion/english/e_saw).
 
 * Robert O. Paxton, _The Anatomy of Fascism_ (New York: Knopf, 2004).
-[Mirrored on this site](./Paxton_2004.pdf).
 
 * Robert O. Paxton, "The Five Stages of Fascism," _The Journal of Modern History_ 70:1 (1998).
-[Mirrored on this site](./Paxton_1998.pdf).
 
 * Alan Swallow, ed. _Readings on Fascism and National Socialism Selected by Members of the Department of Philosophy, University of Colorado_. University of Colorado, 2004. [Available from gutenberg.org](https://www.gutenberg.org/files/14058/14058-h/14058-h.htm).
 
@@ -42,7 +40,7 @@ _(Note:_ This volume contains a translation of Benito Mussolini's article "The D
 
 * Emmi Bevensee, "Towards a Transformative Anti-Fascism: The Relevance of Radicalized Peacebuilding to Antifa Praxis," blog post on _Emmi Bevensee: Anarchist Participation, Nerd Stuff_, September 16, 2016. [Available from emmibe.wordpress.com](https://emmibe.wordpress.com/2016/09/16/towards-a-transformative-anti-fascism/).
 
-* Don Hamerquist et al., eds. _Confronting Fascism: Discussion Documents for a Militant Movement_ (Montreal: Kersplebedeb, 2002). [Mirrored on this site](./Hamerquist_2002.mobi) (.mobi ebook, 1.2 MB).
+* Don Hamerquist et al., eds. _Confronting Fascism: Discussion Documents for a Militant Movement_ (Montreal: Kersplebedeb, 2002).
 
 * Natasha Lennard, "Anti-Fascists Will Fight Trump's Fascism in the Streets," _The Nation_, January 19, 2017. [Available from thenation.com](https://www.thenation.com/article/anti-fascist-activists-are-fighting-the-alt-right-in-the-streets/).
 
